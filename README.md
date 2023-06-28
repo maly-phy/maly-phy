@@ -1,5 +1,5 @@
 <h1 align="center">I'm Mohamed Aly</h1>
-<h3 align="center">A data science enthusiast</h3>
+<h3 align="center">Data scientist | Theoretical Physicist</h3>
 
 - 🔭 I have just finished working on **Detection of Recognizable and Unrecognizable Traffic Signs**
 
