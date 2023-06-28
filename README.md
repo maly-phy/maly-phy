@@ -3,7 +3,7 @@
 
 - 🔭 I have just finished working on **Detection of Recognizable and Unrecognizable Traffic Signs**
 
-- 🌱 I’m continuously learning **Data Science through Kaggle, Medium blogs, ChatGPT.**
+- 🌱 I’m continuously learning **Data Science through Kaggle, Medium blogs, and ChatGPT.**
 
 - 👯 I’m looking to collaborate on **Data Science projects for Tech industry.**
 
