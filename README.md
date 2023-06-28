@@ -1,11 +1,11 @@
 <h1 align="center">I'm Mohamed Aly</h1>
-<h3 align="center">A data science enthusiast</h3>
+<h3 align="center">Data Scientist | Physicist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maly-phy&label=Profile%20views&color=0e75b6&style=flat" alt="maly-phy" /> </p>
 
 - 🔭 I have just finished working on **Detection of Recognizable and Unrecognizable Traffic Signs**
 
-- 🌱 I’m continuously learning **Data Science through Kaggle, Medium blogs, ChatGPT.**
+- 🌱 I’m continuously learning **Data Science through Kaggle, Medium blogs, and ChatGPT.**
 
 - 👯 I’m looking to collaborate on **Data Science projects for Tech industry.**
 
