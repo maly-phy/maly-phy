@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science projects for Tech industry.**
 
-- 📝 I write articles on [https://medium.com/@maly3](https://medium.com/@maly3)
+- 📝 I started writing articles on [https://medium.com/@maly3](https://medium.com/@maly3)
 
 - 💬 Ask me about **Python, Data Science, Machine Learning, Deep Learning, NLP, Decision Science, Data Analysis, Data Visualization, Docker, API, Scraping, GCP, Colab**
 
